@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @janmang8225
-- 👀 I’m interested in Machine learning
+- 👀 I’m interested in Backend Development
 - 🌱 I’m persuing B.TECH from CHARUSAT UNIVERSITY
+- 🚀 I'm Exploring Backend Architecture & System Design
 - 📫 How to reach me : linktr.ee/janmang
 
+🛠 **Tech Stack**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
